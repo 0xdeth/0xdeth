@@ -3,7 +3,13 @@
 I'm *deth*, and I help secure the web3 space.
 
 
-# Stats
+# Achievments
+
+| Highest place on leaderboard | Biggest reward | Total rewards | Issues found | 
+|:--:|:--:|:--:| :--: |
+| 2nd place on the [Cooler Update](https://audits.sherlock.xyz/contests/107) | $1,985.15| ~ $2500 |  5H,10M |
+
+# Contests
 
 | Contest | Date | Highs | Mediums | 
 |:--:|:--:|:--:| :--: |
