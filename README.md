@@ -7,7 +7,7 @@ I'm *deth*, and I help secure the web3 space.
 
 | Highest place on leaderboard | Biggest reward | Total rewards | Issues found | 
 |:--:|:--:|:--:| :--: |
-| 2nd place on the [Cooler Update](https://audits.sherlock.xyz/contests/107) | $1,985.15| ~ $3100 |  8H, 15M |
+| 2nd place on the [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | $7,665.15| ~ $10,000 |  8H, 19M |
 
 # Contests
 
@@ -22,6 +22,7 @@ I'm *deth*, and I help secure the web3 space.
 | [Allo V2](https://audits.sherlock.xyz/contests/109) | Sep 2023 | 0 | 3  |
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | Sep 2023 | 1 | 0  |
 | [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol#top) | Oct 2023 | 2 | 2  |
+| [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | Oct 2023 | 0 | 4, 1 of them unique  |
 
 
 # Contacts
