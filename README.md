@@ -23,7 +23,7 @@ I'm *deth*, and I help secure the web3 space.
 | [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime#top) | Sep 2023 | 1 | 0  |
 | [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol#top) | Oct 2023 | 2 | 2  |
 | [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | Oct 2023 | 0 | 4, 1 of them unique  |
-| [KelpDAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | Oct 2023 | 1 | 2 |
+| [KelpDAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth#top) | Nov 2023 | 1 | 2 |
 
 
 # Contacts
