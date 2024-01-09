@@ -7,7 +7,7 @@ I'm *deth*, and I help secure the web3 space.
 
 | Highest place on leaderboard | Biggest reward | Total rewards | Issues found | 
 |:--:|:--:|:--:| :--: |
-| 2nd place on the [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | $7,665.15| ~ $11,000 |  9H, 21M |
+| 2nd place on the [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | $7,665.15| ~ $12,000 |  9H, 21M |
 
 # Contests
 
