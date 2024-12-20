@@ -2,9 +2,8 @@
 
 I'm *deth*, and I secure smart contracts.
 
-Currently working independently and active in auditing contests on Code4rena, Sherlock and Hats Finance. I also hunt on bug bounty platforms like Immunefi.
+Part of Egis Security and active in auditing contests on Code4rena, Sherlock, Cantina, Codehawks and Hats Finance.
 
-If you are looking for a private audit, either fixed pay or pay-per vulnerability, hit me up on one of my socials.
 * Twitter: [@dethSCA](https://twitter.com/dethSCA)
 * Telegram: [@dethSCA](https://t.me/dethSCA)
 * Discord: deth2814
@@ -12,9 +11,9 @@ If you are looking for a private audit, either fixed pay or pay-per vulnerabilit
 
 # Summary
 
-| Highest place on contest | Biggest reward | Total rewards | Issues found | 
-|:--:|:--:|:--:| :--: |
-| 2nd place on the [PartyDAO](https://code4rena.com/contests/2023-10-party-protocol#top) | $7,665.15 | ~ $17,000 |  12 High risk, 28 Medium risk |
+| Total rewards | Issues found | 
+| :--:| :--: |
+| ~ $17,000 |  12 High risk, 28 Medium risk |
 
 # Contests
 
