@@ -1,4 +1,4 @@
-# deth - Security researcher
+# About me
 
 I'm *deth*, and I secure smart contracts.
 
