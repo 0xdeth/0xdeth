@@ -4,11 +4,6 @@ I'm *deth*, and I secure smart contracts.
 
 Part of Egis Security and active in auditing contests on Code4rena, Sherlock, Cantina, Codehawks and Hats Finance.
 
-* Twitter: [@dethSCA](https://twitter.com/dethSCA)
-* Telegram: [@dethSCA](https://t.me/dethSCA)
-* Discord: deth2814
-
-
 # Summary
 
 | Total rewards | Issues found | 
@@ -41,4 +36,5 @@ Part of Egis Security and active in auditing contests on Code4rena, Sherlock, Ca
 
 # Contacts
 * Twitter: [@dethSCA](https://twitter.com/dethSCA)
+* Telegram: [@dethSCA](https://t.me/dethSCA)
 * Discord: deth2814
